@@ -18,7 +18,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-    <div>とわ君こんんちわ</div>
+    <div>三宅とわ君こんんちわ</div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
